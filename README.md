@@ -6,7 +6,7 @@
 
 I turn ambiguous product problems and repetitive workflows into working products, internal tools, and AI-assisted systems.
 
-[Portfolio](https://pivnev.design) · [Product design work](https://pivnev.design/ux-ui-portfolio) · [OpenAI Calendar](https://openaical.com)
+[Portfolio](https://pivnev.design) · [OpenAI Calendar](https://openaical.com)
 
 </div>
 
